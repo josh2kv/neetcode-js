@@ -9,5 +9,6 @@
  | 03  | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./01/03) | Easy | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0001-two-sum.js) |
  | 04  | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./01/04) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0049-group-anagrams.js) |
  | 05  | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./01/05) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0347-top-k-frequent-elements.js) |
+ | 06  | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./01/06) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0238-product-of-array-except-self.js) |
 
- | 111  | [111](111) | [111](./01/02) | Easy | [111]() |
+ | 111  | [111](111) | [111](./01/02) | Medium | [111]() |
