@@ -11,5 +11,6 @@
  | 05  | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./01/05) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0347-top-k-frequent-elements.js) |
  | 06  | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./01/06) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0238-product-of-array-except-self.js) |
  | 07  | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./01/07) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0036-valid-sudoku.js) |
+ | 08  | [659](https://www.lintcode.com/problem/659/) | [Encode and Decode Strings](./01/08) | Medium | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0271-encode-and-decode-strings.js) |
 
  | 111  | [111](111) | [111](./01/02) | Medium | [111]() |
