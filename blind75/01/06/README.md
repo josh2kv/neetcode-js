@@ -42,3 +42,9 @@ The product of a subset of integers is simply the result of multiplying all the 
 The statement "The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer" means that if you compute the product of any prefix or suffix of the array, the result will be a number that can be represented by a 32-bit integer.
 
 In other words, the product will not be too big to fit within the constraints of a 32-bit integer. This is useful information when designing an algorithm that involves computing products of subarrays, as it ensures that the intermediate results will not cause an integer overflow error.
+
+---
+
+**Solution 01**
+
+![solution__01](solutions/01.svg)
