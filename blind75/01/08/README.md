@@ -1,22 +1,25 @@
-# 659 · Encode and Decode Strings
+# 128. Longest Consecutive Sequence
 
-Design an algorithm to encode a list of strings to a string. The encoded string is then sent over the network and is decoded back to the original list of strings.
-Please implement `encode` and `decode`
+Given an unsorted array of integers `nums`, return the length of the longest consecutive elements sequence.
+
+You must write an algorithm that runs in `O(n)` time.
 
 Example 1:
 
 ```
-Input: ["lint","code","love","you"]
-Output: ["lint","code","love","you"]
-Explanation:
-One possible encode method is: "lint:;code:;love:;you"
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
 ```
 
 Example 2:
 
 ```
-Input: ["we", "say", ":", "yes"]
-Output: ["we", "say", ":", "yes"]
-Explanation:
-One possible encode method is: "we:;say:;:::;yes"
+Input: nums = [0,3,7,2,5,8,4,6,0,1]
+Output: 9
 ```
+
+**Constraints:**
+
+- `0 <= nums.length <= 105`
+- `-109 <= nums[i] <= 109`

@@ -1,13 +1,7 @@
 /**
- * @param {string[]} strs
- * @return {string}
+ * @param {number[]} nums
+ * @return {number}
  */
-function encode(strs) {}
+function longestConsecutive(nums) {}
 
-/**
- * @param {string} str
- * @return {string[]}
- */
-function decode(str) {}
-
-module.exports = { encode, decode };
+module.exports = longestConsecutive;

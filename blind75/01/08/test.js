@@ -1,31 +1,28 @@
-const { encode, decode } = require('./index');
+const fn = require('./index');
 
 const EXAMPLES = [
   {
-    INPUT: [['lint', 'code', 'love', 'you']],
-    OUTPUT: ['lint', 'code', 'love', 'you'],
+    INPUT: [[100, 4, 200, 1, 3, 2]],
+    OUTPUT: 4,
   },
   {
-    INPUT: [['we', 'say', ':', 'yes']],
-    OUTPUT: ['we', 'say', ':', 'yes'],
+    INPUT: [[0, 3, 7, 2, 5, 8, 4, 6, 0, 1]],
+    OUTPUT: 9,
+  },
+  {
+    INPUT: [[]],
+    OUTPUT: 0,
   },
 ];
 
 test('function exists', () => {
-  expect(typeof encode).toEqual('function');
-  expect(typeof decode).toEqual('function');
+  expect(typeof fn).toEqual('function');
 });
 
-test('Example 1', () => {
-  const encoded = encode(EXAMPLES[0].INPUT[0]);
-  const result = decode(encoded);
+for (let i = 0; i < EXAMPLES.length; i++) {
+  test(`Example ${i + 1}`, () => {
+    const result = fn(EXAMPLES[i].INPUT[0]);
 
-  expect(result).toEqual(EXAMPLES[0].OUTPUT);
-});
-
-test('Example 2', () => {
-  const encoded = encode(EXAMPLES[1].INPUT[0]);
-  const result = decode(encoded);
-
-  expect(result).toEqual(EXAMPLES[1].OUTPUT);
-});
+    expect(result).toEqual(EXAMPLES[i].OUTPUT);
+  });
+}

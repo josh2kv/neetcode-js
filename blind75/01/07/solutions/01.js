@@ -1,27 +1,28 @@
-for (let i = 0; i < 9; i++) {
-  let row = new Set(),
-    col = new Set(),
-    box = new Set();
-
-  for (let j = 0; j < 9; j++) {
-    const rowEl = board[i][j];
-    const colEl = board[j][i];
-    const boxEl =
-      board[3 * Math.floor(i / 3) + Math.floor(j / 3)][3 * (i % 3) + (j % 3)];
-
-    if (rowEl !== '.') {
-      if (row.has(rowEl)) return false;
-      row.add(rowEl);
-    }
-    if (colEl !== '.') {
-      if (col.has(colEl)) return false;
-      col.add(colEl);
-    }
-
-    if (boxEl !== '.') {
-      if (box.has(boxEl)) return false;
-      box.add(boxEl);
-    }
-  }
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
+function encode(strs) {
+  return strs.map(str => `${str.length}#${str}`).join('');
 }
-return true;
+
+/**
+ * @param {string} str
+ * @return {string[]}
+ */
+function decode(str) {
+  let currentIndex = 0;
+  const result = [];
+
+  while (currentIndex < str.length) {
+    const delimiterIndex = str.indexOf('#', currentIndex);
+    const length = Number(str.slice(currentIndex, delimiterIndex));
+    const [start, end] = [delimiterIndex + 1, delimiterIndex + length + 1];
+    const word = str.slice(start, end);
+
+    result.push(word);
+    currentIndex = end;
+  }
+
+  return result;
+}

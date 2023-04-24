@@ -1,7 +1,13 @@
 /**
- * @param {character[][]} board
- * @return {boolean}
+ * @param {string[]} strs
+ * @return {string}
  */
-function isValidSudoku(board) {}
+function encode(strs) {}
 
-module.exports = isValidSudoku;
+/**
+ * @param {string} str
+ * @return {string[]}
+ */
+function decode(str) {}
+
+module.exports = { encode, decode };

@@ -1,28 +1,27 @@
 /**
- * @param {string[]} strs
- * @return {string}
+ * @param {number[]} nums
+ * @return {number}
  */
-function encode(strs) {
-  return strs.map(str => `${str.length}#${str}`).join('');
-}
+function longestConsecutive(nums) {
+  const numSet = new Set(nums);
+  let maxScore = 1;
 
-/**
- * @param {string} str
- * @return {string[]}
- */
-function decode(str) {
-  let currentIndex = 0;
-  const result = [];
+  // Q: Why is `[...numSet]` used in `for/of` loop instead of just using `numSet`?
+  // you can just pass test in leetcode with `numSet` in `for/of` loop
+  for (const num of [...numSet]) {
+    const prevNum = num - 1;
+    if (numSet.has(prevNum)) continue;
 
-  while (currentIndex < str.length) {
-    const delimiterIndex = str.indexOf('#', currentIndex);
-    const length = Number(str.slice(currentIndex, delimiterIndex));
-    const [start, end] = [delimiterIndex + 1, delimiterIndex + length + 1];
-    const word = str.slice(start, end);
+    let [curNum, score] = [num, 1];
 
-    result.push(word);
-    currentIndex = end;
+    const isStreak = () => numSet.has(curNum + 1);
+    while (isStreak()) {
+      curNum++;
+      score++;
+    }
+
+    maxScore = Math.max(maxScore, score);
   }
 
-  return result;
+  return maxScore;
 }

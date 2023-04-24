@@ -1,6 +1,6 @@
-# 217. Contains Duplicate
+# 111. 111
 
-Given an integer array nums, return true if any value appears **at least twice** in the array, and return false if every element is distinct.
+111
 
 Example 1:
 

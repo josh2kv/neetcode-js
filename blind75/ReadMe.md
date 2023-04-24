@@ -1,6 +1,6 @@
 # Blind 75
 
-## 01 Arrays & Hashing
+## 01 Arrays & Hashing (8)
 
  | No.  | LeetCode | Title | Difficulty | Solutions |
  | :-: | :------: | :---: | :--------: | :-------: |
@@ -10,6 +10,45 @@
  | 04  | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./01/04) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0049-group-anagrams.js) |
  | 05  | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./01/05) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0347-top-k-frequent-elements.js) |
  | 06  | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./01/06) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0238-product-of-array-except-self.js) |
- | 07  | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./01/07) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0036-valid-sudoku.js) |
- | 08  | [659](https://www.lintcode.com/problem/659/) | [Encode and Decode Strings](./01/08) | Medium | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0271-encode-and-decode-strings.js) |
- | 09  | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](./01/09) | Medium | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0128-longest-consecutive-sequence.js) |
+ | 07  | [659](https://www.lintcode.com/problem/659/) | [Encode and Decode Strings](./01/07) | Medium | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0271-encode-and-decode-strings.js) |
+ | 08  | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](./01/08) | Medium | [3](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0128-longest-consecutive-sequence.js) |
+
+## 02 Two Pointers (3)
+
+ | No.  | LeetCode | Title | Difficulty | Solutions |
+ | :-: | :------: | :---: | :--------: | :-------: |
+  | 01  | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./02/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0125-valid-palindrome.js) |
+
+  <!-- | 01  | [num]() | [title](./01/01) | Easy | [4]() | -->
+
+## 03 Sliding Window (4)
+
+## 04 Stack (1)
+
+## 05 Binary Search (2)
+
+## 06 Linked List (6)
+
+## 07 Trees (11)
+
+## 08 Tries (3)
+
+## 09 Heap / Priority Queue (1)
+
+## 10 Backtracking (2)
+
+## 11 Graphs (6)
+
+## 12 Advanced Graphs (1)
+
+## 13 1-D Dynamic Programming (10)
+
+## 14 2-D Dynamic Programming (2)
+
+## 15 Greedy (2)
+
+## 16 Intervals (5)
+
+## 17 Math & Geometry (3)
+
+## 18 Bit Manipulation (5)

@@ -2,15 +2,15 @@ const fn = require('./index');
 
 const EXAMPLES = [
   {
-    INPUT: [true],
+    INPUT: ['A man, a plan, a canal: Panama'],
     OUTPUT: true,
   },
   {
-    INPUT: [true],
+    INPUT: ['race a car'],
     OUTPUT: false,
   },
   {
-    INPUT: [true],
+    INPUT: [' '],
     OUTPUT: true,
   },
 ];
@@ -36,11 +36,3 @@ test('Example 3', () => {
 
   expect(result).toEqual(EXAMPLES[2].OUTPUT);
 });
-
-// for (let i = 0; i < EXAMPLES.length; i++) {
-//   test(`Example ${i + 1}`, () => {
-//     const result = fn(EXAMPLES[i].INPUT[0]);
-
-//     expect(result).toEqual(EXAMPLES[i].OUTPUT);
-//   });
-// }
