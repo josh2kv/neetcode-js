@@ -18,8 +18,9 @@
  | No.  | LeetCode | Title | Difficulty | Solutions |
  | :-: | :------: | :---: | :--------: | :-------: |
   | 01  | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./02/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0125-valid-palindrome.js) |
+  | 02  | [15](https://leetcode.com/problems/3sum/) | [3Sum](./02/02) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0015-3sum.js) |
 
-  <!-- | 01  | [num]() | [title](./01/01) | Easy | [4]() | -->
+  <!-- | 01  | [num]() | [title](./02/01) | Easy | [4]() | -->
 
 ## 03 Sliding Window (4)
 
