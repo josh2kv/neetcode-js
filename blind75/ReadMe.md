@@ -19,11 +19,10 @@
  | :-: | :------: | :---: | :--------: | :-------: |
   | 01  | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./02/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0125-valid-palindrome.js) |
   | 02  | [15](https://leetcode.com/problems/3sum/) | [3Sum](./02/02) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0015-3sum.js) |
-
-  <!-- | 01  | [num]() | [title](./02/01) | Easy | [4]() | -->
+  | 03  | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./02/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0011-container-with-most-water.js) |
 
 ## 03 Sliding Window (4)
-
+  <!-- | 01  | [num]() | [title](./03/01) | Medium | [4]() | -->
 ## 04 Stack (1)
 
 ## 05 Binary Search (2)
