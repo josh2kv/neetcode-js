@@ -1,5 +1,7 @@
 # Blind 75
 
+link: <https://neetcode.io/practice>
+
 ## 01 Arrays & Hashing (8)
 
  | No.  | LeetCode | Title | Difficulty | Solutions |
@@ -27,6 +29,7 @@
 | :-: | :------: | :---: | :--------: | :-------: |
 | 01  | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./03/01) | Easy | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0076-minimum-window-substring.js) |
 | 02  | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./03/02) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0003-longest-substring-without-repeating-characters.js) |
+| 03  | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./03/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0424-longest-repeating-character-replacement.js) |
 
   <!-- | 01  | [num]() | [title](./03/01) | Medium | [4]() | -->
 ## 04 Stack (1)
