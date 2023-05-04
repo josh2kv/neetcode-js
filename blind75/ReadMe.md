@@ -32,11 +32,14 @@ link: <https://neetcode.io/practice>
 | 03  | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./03/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0424-longest-repeating-character-replacement.js) |
 | 04  | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./03/04) | Hard | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0076-minimum-window-substring.js) |
 
-  <!-- | 01  | [num]() | [title](./03/01) | Medium | [4]() | -->
 ## 04 Stack (1)
 
-## 05 Binary Search (2)
+| No. | LeetCode | Title | Difficulty | Solutions |
+| :-: | :------: | :---: | :--------: | :-------: |
+| 01  | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./04/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0020-valid-parentheses.js) |
 
+## 05 Binary Search (2)
+  <!-- | 01  | [num]() | [title](./03/01) | Medium | [4]() | -->
 ## 06 Linked List (6)
 
 ## 07 Trees (11)
