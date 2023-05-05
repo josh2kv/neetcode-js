@@ -4,7 +4,7 @@ function searchMatrix(matrix, target) {
   let [low, high] = [0, matrix.length - 1];
 
   while (low < high) {
-    const mid = low + Math.floor((high - low) / 2);
+    const mid = low + Math.floor((high + low) / 2);
 
     if (matrix[mid][0] === target) return true;
 
