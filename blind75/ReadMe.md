@@ -39,7 +39,12 @@ link: <https://neetcode.io/practice>
 | 01  | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./04/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0020-valid-parentheses.js) |
 
 ## 05 Binary Search (2)
-  <!-- | 01  | [num]() | [title](./03/01) | Medium | [4]() | -->
+
+| No. | LeetCode | Title | Difficulty | Solutions |
+| :-: | :------: | :---: | :--------: | :-------: |
+| 01  | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./05/01) | Easy | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0704-binary-search.js) |
+
+  <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
 ## 06 Linked List (6)
 
 ## 07 Trees (11)
