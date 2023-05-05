@@ -45,6 +45,7 @@ link: <https://neetcode.io/practice>
 | 01  | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./05/01) | Easy | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0704-binary-search.js) |
 | 02  | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./05/02) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0074-search-a-2d-matrix.js) |
 | 03  | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./05/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0875-koko-eating-bananas.js) |
+| 04  | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./05/04) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0153-find-minimum-in-rotated-sorted-array.js) |
 
   <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
 ## 06 Linked List (6)
