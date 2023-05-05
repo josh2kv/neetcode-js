@@ -3,7 +3,7 @@ function search(nums, target) {
     high = nums.length - 1;
 
   while (low <= high) {
-    const mid = low + Math.floor(high - low);
+    const mid = low + Math.floor((high - low) / 2);
 
     if (nums[mid] === target) return mid;
 
