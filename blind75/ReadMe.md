@@ -47,6 +47,7 @@ link: <https://neetcode.io/practice>
 | 03  | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./05/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0875-koko-eating-bananas.js) |
 | 04  | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./05/04) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0153-find-minimum-in-rotated-sorted-array.js) |
 | 05  | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./05/05) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0033-search-in-rotated-sorted-array.js) |
+| 06  | [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](./05/06) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0981-time-based-key-value-store.js) |
 
   <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
 ## 06 Linked List (6)
