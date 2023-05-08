@@ -48,10 +48,10 @@ link: <https://neetcode.io/practice>
 | 04  | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./05/04) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0153-find-minimum-in-rotated-sorted-array.js) |
 | 05  | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./05/05) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0033-search-in-rotated-sorted-array.js) |
 | 06  | [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](./05/06) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0981-time-based-key-value-store.js) |
+| 07  | [4]([4](https://leetcode.com/problems/median-of-two-sorted-arrays/)) | [Median of Two Sorted Arrays](./05/07) | Hard | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0004-median-of-two-sorted-arrays.js) |
 
-  <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
 ## 06 Linked List (6)
-
+  <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
 ## 07 Trees (11)
 
 ## 08 Tries (3)
