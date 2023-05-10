@@ -51,7 +51,12 @@ link: <https://neetcode.io/practice>
 | 07  | [4]([4](https://leetcode.com/problems/median-of-two-sorted-arrays/)) | [Median of Two Sorted Arrays](./05/07) | Hard | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0004-median-of-two-sorted-arrays.js) |
 
 ## 06 Linked List (6)
-  <!-- | 01  | [num]() | [title](./05/01) | Medium | [4]() | -->
+
+| No. | LeetCode | Title | Difficulty | Solutions |
+| :-: | :------: | :---: | :--------: | :-------: |
+| 01  | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./06/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0206-reverse-linked-list.js) |
+  
+<!-- | 01  | [num]() | [title](./06/01) | Medium | [4]() | -->
 ## 07 Trees (11)
 
 ## 08 Tries (3)
