@@ -56,6 +56,7 @@ link: <https://neetcode.io/practice>
 | :-: | :------: | :---: | :--------: | :-------: |
 | 01  | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./06/01) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0206-reverse-linked-list.js) |
 | 02  | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](./06/02) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0021-merge-two-sorted-lists.js) |
+| 03  | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](./06/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0143-reorder-list.js) |
 
 <!-- | 01  | [num]() | [title](./06/01) | Medium | [4]() | -->
 ## 07 Trees (11)
