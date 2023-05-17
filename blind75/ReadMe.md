@@ -59,10 +59,11 @@ link: <https://neetcode.io/practice>
 | 03  | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](./06/03) | Medium | [1](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0143-reorder-list.js) |
 | 04  | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](./06/04) | Medium | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0019-remove-nth-node-from-end-of-list.js) |
 | 05  | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./06/05) | Easy | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0141-linked-list-cycle.js) |
-
-<!-- | 01  | [num]() | [title](./06/01) | Medium | [4]() | -->
+| 06  | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](./06/06) | Hard | [2](https://github.com/neetcode-gh/leetcode/blob/main/javascript/0023-merge-k-sorted-lists.js) |
 
 ## 07 Trees (11)
+
+<!-- | 01  | [num]() | [title](./07/01) | Medium | [4]() | -->
 
 ## 08 Tries (3)
 
